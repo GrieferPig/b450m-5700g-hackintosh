@@ -1,6 +1,8 @@
 # b450m-5700g-hackintosh
 EFI config for AMD Ryzen 5700G + B450M Mortar Max motherboard
 
+![systeminfo](./screenshots/systeminfo.png)
+
 ## WARNING - THIS CONFIG CANNOT BE USED AS-IS EVEN YOU HAVE THE SAME HARDWARE CONFIGURATION. 
 
 You need to change some value under `PlatformInfo -> Generic` using GenSMBios
