@@ -21,7 +21,7 @@ If you don't know how, [RTFM](https://dortania.github.io/OpenCore-Post-Install/u
 
 # Hardware config
 - MSI B450M Mortar Max
-  - USB mapping is specific to motherboard so beware that it's highly possible my mapping can be different from yours
+  - USB mapping is specific to motherboard model so beware that it's highly possible my mapping can be different from yours in case you don't have the same motherboard
   - Onboard Audio Codec: alc892
   - Onboard Ethernet: rtl8111
 - AMD Ryzen 5700G
