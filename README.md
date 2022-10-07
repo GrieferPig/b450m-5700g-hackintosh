@@ -39,4 +39,3 @@ Almost everything
 # Issues
 - Not tested, but doesn't seem to have one
 - Optane NVMe disks seem does not like NVmeFix.kext
-- Booting on NVMe disks are not tested
